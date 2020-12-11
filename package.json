@@ -1,0 +1,14 @@
+{
+  "name": "hyf-ch-gamejoy-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hyf-ch-gamejoy-2020": "clean-words.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
